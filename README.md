@@ -10,7 +10,7 @@ __I often think about:__ Ways to best combine data, language and journalism to b
 
 __I love to:__ Interrogate public records and clearly communicate my findings to varying audiences.
 
-__Ask me about:__ My previous experience in translation-journalism and project management.
+__Ask me about:__ My previous experience in translation-journalism and agile project management.
 
 __Contact me at:__ rdukewiesenb@gmail.com; @busybusybeckybe on Twitter; Rebecca Duke Wiesenberg on LinkedIn
 
