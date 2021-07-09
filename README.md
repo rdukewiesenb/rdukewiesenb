@@ -1,6 +1,6 @@
 ### Hi there! My name is Rebecca; learn a little bit about me here:
 
-__I’m currently working on:__ A national asylum case database, so that asylum lawyers can best prepare for cases with immigration judge ruling trends.
+__I’m currently working on:__ Analyzing student data, to find trends in their learning needs.
 
 __I’m currently learning:__ Python, but I have a soft spot for R and SQL.
 
